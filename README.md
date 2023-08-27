@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Mohamed Ebeid and I'm a Full Stack Developer, from Saudi Arabia</h2>
 
 ###
 
