@@ -47,26 +47,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" />
 </div>
 
-<style>
-.tech-stack {
-  display: flex;
-  gap: 1.5rem;
-  flex-wrap: wrap;
-  padding: 1rem;
-  background: rgba(255, 255, 255, 0.1);
-  border-radius: 10px;
-  backdrop-filter: blur(10px);
-}
-
-.tech-stack img {
-  transition: transform 0.2s ease;
-}
-
-.tech-stack img:hover {
-  transform: scale(1.2);
-}
-</style>
-
 ###
 
 ### :fire: My Stats :
