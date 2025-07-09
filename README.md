@@ -15,12 +15,10 @@
 </div>
 
 ## :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Saudi Arabia.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web and mobile applications.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ebeid-a05240204/)
+I'm a passionate developer focused on crafting exceptional digital experiences through clean, efficient code. With 3+ years of professional experience, I specialize in modern web technologies and cloud-native development.
+### Info:
+- 📍 Location: Hal, Saudi Arabia
+- 🌍 Nationality: Sudanese
 
 
 ## :hammer_and_wrench: Languages and Tools :
