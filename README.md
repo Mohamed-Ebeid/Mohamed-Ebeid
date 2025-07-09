@@ -14,7 +14,6 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-***
 ## :woman_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Saudi Arabia.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web and mobile applications.
@@ -23,7 +22,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ebeid-a05240204/)
 
-***
+
 ## :hammer_and_wrench: Languages and Tools :
 <div align="center">
 
@@ -56,8 +55,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 </div>
 
-___
-
 
 ## 📊 GitHub Analytics
 
@@ -67,7 +64,6 @@ ___
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamed-ebeid&theme=tokyonight" alt="GitHub Profile Summary" />
 </div>
 
-***
 
 ## 🏆 GitHub Achievements
 
@@ -75,7 +71,6 @@ ___
   <img src="https://github-profile-trophy.vercel.app/?username=mohamed-ebeid&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </div>
 
-***
 
 ## 🤝 Connect With Me
 
