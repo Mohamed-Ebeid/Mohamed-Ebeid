@@ -22,7 +22,36 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ebeid-a05240204/)
 
-###
+<div align="center">
+
+### Frontend Development
+
+[![React](https://skillicons.dev/icons?i=react)](https://reactjs.org/)
+[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
+[![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
+[![HTML5](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+### Backend Development
+
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
+[![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
+[![Laravel](https://skillicons.dev/icons?i=laravel)](https://laravel.com/)
+[![Django](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com/)
+
+### Mobile Development
+
+[![Flutter](https://skillicons.dev/icons?i=flutter)](https://flutter.dev/)
+[![React Native](https://skillicons.dev/icons?i=react)](https://reactnative.dev/)
+
+### Database Technologies
+
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+
+</div>
 
 ### :hammer_and_wrench: Languages and Tools :
 
