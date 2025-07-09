@@ -29,6 +29,7 @@ I'm a passionate developer focused on crafting exceptional digital experiences t
 [![React](https://skillicons.dev/icons?i=react)](https://reactjs.org/)
 [![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
+[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
 [![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
 [![HTML5](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
