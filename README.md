@@ -58,17 +58,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ___
 
-## :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
-
-***
 
 ## 📊 GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-ebeid&theme=tokyonight" alt="GitHub Streak Stats" />
-
+  </br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamed-ebeid&theme=tokyonight" alt="GitHub Profile Summary" />
 </div>
 
