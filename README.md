@@ -15,7 +15,7 @@
 </div>
 
 ## :woman_technologist: About Me :
-I'm a passionate developer focused on crafting exceptional digital experiences through clean, efficient code. With 3+ years of professional experience, I specialize in modern web technologies and cloud-native development.
+I'm a passionate developer focused on crafting exceptional digital experiences through clean, efficient code. With 4+ years of professional experience, I specialize in modern web technologies and cloud-native development.
 ### Info:
 - 📍 Location: Hal, Saudi Arabia
 - 🌍 Nationality: Sudanese
