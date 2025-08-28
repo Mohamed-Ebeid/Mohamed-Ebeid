@@ -63,13 +63,11 @@ I'm a passionate developer focused on crafting exceptional digital experiences t
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamed-ebeid&theme=tokyonight" alt="GitHub Profile Summary" />
 </div>
 
-
 ## 🏆 GitHub Achievements
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mohamed-ebeid&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </div>
-
 
 ## 🤝 Connect With Me
 
