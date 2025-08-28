@@ -14,14 +14,14 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-## :woman_technologist: About Me :
+## 👨‍💻 About Me :
 I'm a passionate developer focused on crafting exceptional digital experiences through clean, efficient code. With 4+ years of professional experience, I specialize in modern web technologies and cloud-native development.
+
 ### Info:
 - 📍 Location: Hal, Saudi Arabia
 - 🌍 Nationality: Sudanese
 
-
-## :hammer_and_wrench: Languages and Tools :
+## 🛠️ Languages and Tools :
 <div align="center">
 
 ### Frontend Development
@@ -54,7 +54,6 @@ I'm a passionate developer focused on crafting exceptional digital experiences t
 
 </div>
 
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -63,13 +62,11 @@ I'm a passionate developer focused on crafting exceptional digital experiences t
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamed-ebeid&theme=tokyonight" alt="GitHub Profile Summary" />
 </div>
 
-
 ## 🏆 GitHub Achievements
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mohamed-ebeid&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </div>
-
 
 ## 🤝 Connect With Me
 
@@ -81,19 +78,3 @@ I'm a passionate developer focused on crafting exceptional digital experiences t
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
-
-
-<!--
-**Mohamed-Ebeid/Mohamed-Ebeid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
